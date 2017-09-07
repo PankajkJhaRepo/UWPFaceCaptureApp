@@ -1,0 +1,499 @@
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\App.xbf
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\MainPage.xbf
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ExpImageProcessing.xr.xml
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ExpImageProcessing.exe
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ExpImageProcessing.pdb
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\resources.pri
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\AppxManifest.xml
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Core\AppxManifest.xml
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Core\ExpImageProcessing.exe
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ExpImageProcessing.build.appxrecipe
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.CSharp.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Core.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Numerics.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Windows.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.Linq.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.Serialization.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Globalization.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Handles.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Text.Encoding.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Tasks.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Timer.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.FileSystem.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Primitives.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Sockets.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\clrjit.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\clrcompression.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Private.Uri.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.AppContext.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Buffers.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.Immutable.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.Specialized.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ComponentModel.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Data.Common.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.Compression.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Linq.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Linq.Expressions.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Linq.Parallel.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Linq.Queryable.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Http.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.NameResolution.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Requests.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.WebSockets.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ObjectModel.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Context.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Emit.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Claims.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Principal.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.XDocument.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.csprojResolveAssemblyReference.cache
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\App.g.i.cs
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\App.g.cs
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MainPage.g.i.cs
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MainPage.g.cs
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\App.xaml
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MainPage.xaml
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\App.xbf
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MainPage.xbf
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.exe
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.pdb
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ResourceHandlingTask.state
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\priconfig.xml
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\priconfig.xml.intermediate
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\layout.resfiles
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\layout.resfiles.intermediate
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\resources.resfiles
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\resources.resfiles.intermediate
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\pri.resfiles
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\pri.resfiles.intermediate
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\qualifiers.txt
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ProjectArchitectures.txt
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.csproj.CoreCompileInputs.cache
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.Data.Edm.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.Data.OData.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Spatial.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\de\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\es\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\fr\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\it\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ja\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ko\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ru\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\System.Spatial\en-US\System.Spatial.resw
+D:\Bappa\GitSource\IotPractise\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.csproj.GenerateResource.Cache
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\App.xbf
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\MainPage.xbf
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ExpImageProcessing.xr.xml
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ExpImageProcessing.exe
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ExpImageProcessing.pdb
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\resources.pri
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\AppxManifest.xml
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Core\AppxManifest.xml
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Core\ExpImageProcessing.exe
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ExpImageProcessing.build.appxrecipe
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.CSharp.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.Data.Edm.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.Data.OData.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Core.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Numerics.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Windows.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.Linq.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.Serialization.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Globalization.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Handles.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Text.Encoding.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Tasks.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Timer.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.FileSystem.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Primitives.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Sockets.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\clrjit.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\clrcompression.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Private.Uri.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.AppContext.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Buffers.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.Immutable.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Collections.Specialized.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ComponentModel.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Data.Common.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.Compression.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Linq.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Linq.Expressions.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Linq.Parallel.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Linq.Queryable.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Http.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.NameResolution.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.Requests.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.WebSockets.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ObjectModel.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Context.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Emit.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Claims.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Security.Principal.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Spatial.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\de\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\es\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\fr\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\it\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ja\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ko\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\ru\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.XDocument.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\bin\x86\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\App.g.i.cs
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\App.g.cs
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MainPage.g.i.cs
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MainPage.g.cs
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\App.xaml
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MainPage.xaml
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\App.xbf
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MainPage.xbf
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.exe
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.pdb
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ResourceHandlingTask.state
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\System.Spatial\en-US\System.Spatial.resw
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.csproj.GenerateResource.Cache
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\priconfig.xml
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\priconfig.xml.intermediate
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\layout.resfiles
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\layout.resfiles.intermediate
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\resources.resfiles
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\resources.resfiles.intermediate
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\pri.resfiles
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\pri.resfiles.intermediate
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\qualifiers.txt
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ProjectArchitectures.txt
+D:\Important\IOT\Project Work\ExpImageProcessing\ExpImageProcessing\obj\x86\Debug\ExpImageProcessing.csprojResolveAssemblyReference.cache
